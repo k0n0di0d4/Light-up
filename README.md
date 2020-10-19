@@ -1,1 +1,2 @@
-# Light-up
+# Light-up to japońskie puzzle. Opisywany problem będzie się odbywał na kwadratowej tablicy 10x10. Na początku w grze poustawiane są czarne kwadraty z numerami lub bez. Numery oznaczają ile żarówek powinno być ustawionych pionowo lub poziomo obok naszego kwadratu z numerem. Żarówki oświetlają planszę pionowo i poziomo zatrzymując się na innych blokach.
+Żarówki nie mogą świecić na inne żarówki. Grę wygrywa się ustawiając żarówki tak żeby cała plansza była oświetlona.
