@@ -1,0 +1,9 @@
+﻿  JIL.cpp
+C:\Users\Toshiba\source\repos\MHE_Atmospherics\MHE_Atmospherics\JIL.cpp(27,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Toshiba\source\repos\MHE_Atmospherics\MHE_Atmospherics\JIL.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Toshiba\source\repos\MHE_Atmospherics\MHE_Atmospherics\JIL.cpp(68,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toshiba\source\repos\MHE_Atmospherics\MHE_Atmospherics\JIL.cpp(84,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toshiba\source\repos\MHE_Atmospherics\MHE_Atmospherics\JIL.cpp(85,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toshiba\source\repos\MHE_Atmospherics\MHE_Atmospherics\JIL.cpp(149,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Toshiba\source\repos\MHE_Atmospherics\MHE_Atmospherics\JIL.cpp(150,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MHE_Atmospherics.vcxproj -> C:\Users\Toshiba\source\repos\MHE_Atmospherics\Debug\MHE_Atmospherics.exe
