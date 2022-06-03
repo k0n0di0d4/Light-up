@@ -5,4 +5,5 @@
 0. Wszystkie bloki muszą być oświetlone.
 1. Żarówki nie mogą świecić na inne żarówki.
 2. Ilość żarówek obok czarnych kwadratów z numerami musi odpowiadać numerom na kwadracie
+
 ![image](https://user-images.githubusercontent.com/72804341/171876697-ef229965-0aae-42c7-b953-9721832af16a.png)
